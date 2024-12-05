@@ -1,0 +1,3 @@
+/Users/lukebray/Fall2024/Algorithms/clionProjects/NewSplayTrees/cmake-build-debug/CMakeFiles/NewSplayTrees.dir
+/Users/lukebray/Fall2024/Algorithms/clionProjects/NewSplayTrees/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/lukebray/Fall2024/Algorithms/clionProjects/NewSplayTrees/cmake-build-debug/CMakeFiles/rebuild_cache.dir
